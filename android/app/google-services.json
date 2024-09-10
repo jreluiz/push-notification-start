@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635475990952",
+    "project_id": "expopushnotifications-c22a1",
+    "storage_bucket": "expopushnotifications-c22a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635475990952:android:3ad143c2351adf4568a59d",
+        "android_client_info": {
+          "package_name": "com.jreluiz.pushnotificationstart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_H-Jk3nwK8KR5Q6XVjr_KoJpR59UHLJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
